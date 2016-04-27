@@ -1,0 +1,135 @@
+.s3 {
+  word-wrap: break-word;
+}
+h4 {
+  margin: 0;
+  line-height: normal;
+  letter-spacing: normal;
+}
+	h4.font6{
+	font: normal normal bold 40px/1.3em 'Kelly Slab',fantasy;
+  color: #62483D;
+	}
+	h5 {
+  margin: 0;
+  line-height: normal;
+  letter-spacing: normal;
+}
+h5.font5 {
+  font: normal normal normal 28px/1.2em Enriqueta,serif;
+  color: #62483D;
+} h6 {
+  margin: 0;
+  line-height: normal;
+  letter-spacing: normal;
+}
+h6.font7 {
+  font: normal normal normal 19px/1.3em 'Kelly Slab',fantasy;
+  color: #62483D;
+}
+.conticon{
+position:absolute;top:85px;
+}
+@media only screen and (max-width: 1200px) {
+	h4.font6{
+	font: normal normal normal 25px/1.3em 'Kelly Slab',fantasy;
+  color: #62483D;
+	}
+	h5 {
+  margin: 0;
+  line-height: normal;
+  letter-spacing: normal;
+}
+h5.font5 {
+  font: normal normal normal 20px/1.2em Enriqueta,serif;
+  color: #62483D;
+} h6 {
+  margin: 0;
+  line-height: normal;
+  letter-spacing: normal;
+}
+h6.font7 {
+  font: normal normal normal 12px/1.3em 'Kelly Slab',fantasy;
+  color: #62483D;
+}
+}
+
+@media only screen and (max-width: 600px) {
+	h4.font6{
+	font: normal normal normal 20px/1.3em 'Kelly Slab',fantasy;
+  color: #62483D;
+	}
+	h5 {
+  margin: 0;
+  line-height: normal;
+  letter-spacing: normal;
+}
+h5.font5 {
+  font: normal normal normal 10px/1.2em Enriqueta,serif;
+  color: #62483D;
+} h6 {
+  margin: 0;
+  line-height: normal;
+  letter-spacing: normal;
+}
+h6.font7 {
+  font: normal normal normal 5px/1.3em 'Kelly Slab',fantasy;
+  color: #62483D;
+}
+.conticon{
+position:absolute;top:50px;
+}
+}
+@media only screen and (max-width: 800px) {
+	h4.font6{
+	font: normal normal normal 25px/1.3em 'Kelly Slab',fantasy;
+  color: #62483D;
+	}
+	h5 {
+  margin: 0;
+  line-height: normal;
+  letter-spacing: normal;
+}
+h5.font5 {
+  font: normal normal normal 20px/1.2em Enriqueta,serif;
+  color: #62483D;
+} h6 {
+  margin: 0;
+  line-height: normal;
+  letter-spacing: normal;
+}
+h6.font7 {
+  font: normal normal normal 12px/1.3em 'Kelly Slab',fantasy;
+  color: #62483D;
+}
+}
+@media only screen and (max-width: 400px) {
+	h4.font6{
+	font: normal normal normal 10px/1.3em 'Kelly Slab',fantasy;
+  color: #62483D;
+	}
+	h5 {
+  margin: 0;
+  line-height: normal;
+  letter-spacing: normal;
+}
+h5.font5 {
+  font: normal normal bold 7px/1.2em Enriqueta,serif;
+  color: #62483D;
+} h6 {
+  margin: 0;
+  line-height: normal;
+  letter-spacing: normal;
+}
+h6.font7 {
+  font: normal normal normal 5px/1.3em 'Kelly Slab',fantasy;
+  color: #62483D;
+}
+.conticon{
+top:25px;
+}
+.star{
+	width:10px;
+	height:10px;
+}
+}
